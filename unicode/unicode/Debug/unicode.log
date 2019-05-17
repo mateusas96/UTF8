@@ -1,0 +1,14 @@
+﻿  unicode.cpp
+c:\c++\unicode\unicode\unicode.cpp(98): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(106): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(154): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(170): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(229): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(237): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(245): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(253): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\unicode\unicode\unicode.cpp(91): warning C4101: 'bitas': unreferenced local variable
+c:\c++\unicode\unicode\unicode.cpp(37): warning C4715: 'bytecount': not all control paths return a value
+c:\c++\unicode\unicode\unicode.cpp(595): warning C4715: 'CodePage427': not all control paths return a value
+  unicode.vcxproj -> C:\c++\unicode\Debug\unicode.exe
